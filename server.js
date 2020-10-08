@@ -65,9 +65,9 @@ client.on("message", message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : osama tech`);
+      console.log(`Desert Bot- Script By : ILYASS.`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : someone dev ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : ILYASS. ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`Excelsior Broadcast | Bot Dev By ILYASS.`,"https://www.twitch.tv/S-T") /// تعديل مهم حط بدل هلو حالة البوت
